@@ -1,0 +1,13 @@
+{
+  "name": "jj-giphy-qa",
+  "version": "1.0.0",
+  "description": "QA testing Giphy",
+  "main": "index.js",
+  "scripts": {
+    "test": "gotest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
