@@ -8,4 +8,4 @@ To run this test:
 6. A Google Chrome window should open that will automatically run the tests.
 
 # Notes
-All of this was run using basic Cypress tests. I noticed that giphy.com uses React, and there are some react node packages that make it possible to test React components. If I had more time, I would've used these packages, which might've made it easier to target certain elements.
+All of this was run using basic Cypress tests. As a possible more robust alternative, giphy.com uses React, and there are some react node packages that make it possible to test React components. Using one of these packages might've made it easier to target certain elements.
