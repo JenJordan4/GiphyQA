@@ -12,7 +12,7 @@ To run this test:
 2. Clicks on a gif in the trending section (captures ID of first trending image, clicks first trending image, verifies ID exists in the new URL)
 3. Checks that the search field exists
 4. Types into search field (Types into search field and then verifies that the input value matches what was typed)
-5. 5. Checkes copied URL is for the correct gif
+5. Checkes copied URL is for the correct gif
 
 # Additional Notes
 All of this was run using basic Cypress tests. As a possible more robust alternative, giphy.com uses React, and there are some react node packages that make it possible to test React components. Using one of these packages might've made it easier to target certain elements.
